@@ -1,0 +1,12 @@
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+torch
+datasets
+evaluate
+langchain
+fuzzywuzzy[speedup]
+streamlit
+nltk
